@@ -1,8 +1,6 @@
 button{
     background-color: ghostwhite;
-    border:none
-    
-
-    
+    border:none;
+    transition: 2s;   
     
 }
