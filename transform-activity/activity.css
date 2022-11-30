@@ -1,3 +1,12 @@
 main {
-    transform:rotate3d(1, 2, 3, -10deg);
+    transform:skewY(-10deg);
+
+}
+.wrapper{
+    position: absolute
+}
+
+.info{
+
+    margin: auto
 }
